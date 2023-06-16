@@ -1,0 +1,3 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/jessemorales77/Blog-client.git
